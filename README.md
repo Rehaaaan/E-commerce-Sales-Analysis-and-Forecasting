@@ -1,4 +1,5 @@
 # E-commerce Sales Analysis and Forecasting
+<img src="E-commerce Sales Analysis and Forecasting/CoverECommerce.jpg"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
