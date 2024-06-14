@@ -9,9 +9,8 @@
 - [Forecasting](#forecasting)
 - [Repository Structure](#repository-structure)
 - [How to Use](#how-to-use)
-- [Contact](#Contact)
 - [Conclusion](#conclusion)
-
+- [Contact](#Contact)
 
 ## Introduction
 This project aims to analyze historical e-commerce sales data to identify trends, understand seasonality, and forecast future sales. The goal is to assist in strategic planning and inventory management.
