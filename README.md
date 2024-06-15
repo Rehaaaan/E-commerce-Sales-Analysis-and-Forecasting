@@ -30,9 +30,8 @@ This project aims to analyze historical e-commerce sales data to identify trends
 ## Questions Addressed
 1. **What are the monthly and seasonal trends in sales?**
 2. **Which product categories generate the highest revenue?**
-3. **Who are my top customers and what are their purchasing behaviors?**
-4. **What is the customer lifetime value (CLV) for different segments?**
-5. **How effective are my promotional campaigns affecting sales and revenue?**
+3. **What is the customer lifetime value (CLV) for different segments?**
+4. **How effective are my promotional campaigns affecting sales and revenue?**
 
 ## Results
 - Summarized key insights from the analysis.
