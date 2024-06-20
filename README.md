@@ -46,7 +46,8 @@ This project aims to analyze historical e-commerce sales data to identify trends
 ![SARIMAX Forecast of Monthly Sales](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FPyImages%2FSARIMAX%20Forecast%20of%20Monthly%20Sales.png)
 
 - Applied prophet library from python
-![Prophet model]()
+![Prophet model](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FPyImages%2FSales%20Forecast%20using%20Prophet.png)
+
 ## Repository Structure
 - `data/`: Raw and cleaned datasets.
 - `scripts/`: Python scripts for data cleaning, EDA, and forecasting.
