@@ -31,6 +31,7 @@ This project aims to analyze historical e-commerce sales data to identify trends
 1. **What are the monthly and seasonal trends in sales?**
 2. **Which product categories generate the highest revenue?**
 3. **What is the customer lifetime value (CLV) for different segments?**
+4. **What is the total sales specific to a country**
 
 ## Results
 - Summarized key insights from the analysis.
@@ -45,10 +46,11 @@ This project aims to analyze historical e-commerce sales data to identify trends
 
 3. **What is the customer lifetime value (CLV) for different segments?**
 
-![clv]()
+![clv](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FPyImages%2FQ3a_Py.png)
 
+4. **What is the total sales specific to a country**
 
-(https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FTotalSales%20vs.%20Country.png)
+![Total sales](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FTotalSales%20vs.%20Country.png)
 
 
 ## Forecasting
