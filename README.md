@@ -45,11 +45,9 @@ This project aims to analyze historical e-commerce sales data to identify trends
 ![Top Product Categories](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FHistogram%20of%20TotalSales.png)
 
 3. **What is the customer lifetime value (CLV) for different segments?**
-
 ![clv](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FPyImages%2FQ3a_Py.png)
 
 4. **What is the total sales specific to a country**
-
 ![Total sales](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FTotalSales%20vs.%20Country.png)
 
 
@@ -62,7 +60,6 @@ This project aims to analyze historical e-commerce sales data to identify trends
 
 ## Repository Structure
 - `data/`: Raw and cleaned datasets.
-- `scripts/`: Python scripts for data cleaning, EDA, and forecasting.
 - `notebooks/`: Jupyter notebooks with detailed analysis.
 - `reports/`: Business intelligence reports and dashboards.
 - `visualizations/`: All generated visualizations.
