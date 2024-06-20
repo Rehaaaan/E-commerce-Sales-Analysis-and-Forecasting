@@ -43,7 +43,9 @@ This project aims to analyze historical e-commerce sales data to identify trends
 2. **Which product categories generate the highest revenue?**
 ![Top Product Categories](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FHistogram%20of%20TotalSales.png)
 
+3. **What is the customer lifetime value (CLV) for different segments?**
 
+![clv]()
 
 
 (https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FTotalSales%20vs.%20Country.png)
