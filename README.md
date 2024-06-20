@@ -37,7 +37,7 @@ This project aims to analyze historical e-commerce sales data to identify trends
 - Highlighted trends and patterns observed in the sales data.
 
 ## Visualizations
-![Monthly Sales Trend](path/to/monthly_sales_trend.png)
+![Monthly Sales Trend](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FPyImages%2FMonthly%20Sales%20Trend%28ECOMMERCE%29.png)
 ![Top Product Categories](path/to/top_product_categories.png)
 - More detailed visualizations can be found in the [Visualizations Directory](link_to_directory).
 
