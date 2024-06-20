@@ -60,7 +60,7 @@ This project aims to analyze historical e-commerce sales data to identify trends
 
 ## Repository Structure
 - `data/`: Raw and cleaned datasets.
-- `notebooks/`: Jupyter notebooks with detailed analysis.
+- `notebook/`: Jupyter notebooks with detailed analysis.
 - `reports/`: Business intelligence reports and dashboards.
 - `visualizations/`: All generated visualizations.
 
