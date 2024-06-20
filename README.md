@@ -9,7 +9,6 @@
 - [Visualizations](#visualizations)
 - [Forecasting](#forecasting)
 - [Repository Structure](#repository-structure)
-- [How to Use](#how-to-use)
 - [Conclusion](#conclusion)
 - [Contact](#Contact)
 
@@ -63,11 +62,6 @@ This project aims to analyze historical e-commerce sales data to identify trends
 - `notebook/`: Jupyter notebooks with detailed analysis.
 - `reports/`: Business intelligence reports and dashboards.
 - `visualizations/`: All generated visualizations.
-
-## How to Use
-1. Clone the repository.
-2. Install required dependencies.
-3. Run the provided scripts or notebooks to replicate the analysis.
 
 ## Conclusion
 The analysis provides valuable insights into sales trends and helps in forecasting future sales, aiding strategic planning and inventory management.
