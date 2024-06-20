@@ -37,9 +37,17 @@ This project aims to analyze historical e-commerce sales data to identify trends
 - Highlighted trends and patterns observed in the sales data.
 
 ## Visualizations
+1. **What are the monthly and seasonal trends in sales?**
 ![Monthly Sales Trend](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FPyImages%2FMonthly%20Sales%20Trend%28ECOMMERCE%29.png)
-![Top Product Categories](path/to/top_product_categories.png)
-- More detailed visualizations can be found in the [Visualizations Directory](link_to_directory).
+
+2. **Which product categories generate the highest revenue?**
+![Top Product Categories](https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FHistogram%20of%20TotalSales.png)
+
+
+
+
+(https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/visualizations%2FE-commerce%2FExcel%2FTotalSales%20vs.%20Country.png)
+
 
 ## Forecasting
 - Applied SARIMAX forecasting.
