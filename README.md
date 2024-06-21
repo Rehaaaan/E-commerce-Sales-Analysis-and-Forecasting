@@ -1,5 +1,5 @@
 # E-commerce Sales Analysis and Forecasting
-<img src='https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/EcommerceCover.jpeg' width = 700 />
+<img src='https://github.com/Rehaaaan/E-commerce-Sales-Analysis-and-Forecasting/blob/main/EcommerceCover.jpeg'  />
 
 ## Table of Contents
 - [Introduction](#introduction)
